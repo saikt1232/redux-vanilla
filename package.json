@@ -1,0 +1,22 @@
+{
+  "name": "redux-vanilla",
+  "version": "1.0.0",
+  "description": "this is to demo redux vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikt1232/redux-vanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikt1232/redux-vanilla/issues"
+  },
+  "homepage": "https://github.com/saikt1232/redux-vanilla#readme",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
